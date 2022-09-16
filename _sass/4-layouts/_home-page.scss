@@ -24,7 +24,7 @@
     display: block;
     padding-top: 75%;
     background: var(--background-color);
-  
+
     img {
       position: absolute;
       top: 0;
@@ -34,7 +34,7 @@
       border-radius: 22px;
       object-fit: cover;
     }
-  
+
   }
 
   @media only screen and (max-width: $desktop) {
@@ -59,11 +59,11 @@
 
 .article__content {
   @media only screen and (max-width: $desktop) {
-    padding: 0 12px;
+    padding: 0 6px;
   }
 
   @media only screen and (max-width: $mobile) {
-    padding: 0 10px;
+    padding: 0 5px;
   }
 }
 

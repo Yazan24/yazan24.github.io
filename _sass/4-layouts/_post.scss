@@ -116,7 +116,7 @@
     overflow: hidden;
     transition: none;
     background: var(--background-color);
-    
+
     img {
       position: absolute;
       top: 0;
@@ -160,7 +160,7 @@
 .page__description {
   font-size: 21px;
   line-height: 1.4;
-  
+
   @media only screen and (max-width: $mobile) {
     font-size: 20px;
   }
@@ -186,7 +186,7 @@
     object-fit: cover;
     user-select: none;
   }
-  
+
   @media only screen and (max-width: $desktop) {
     height: 460px;
   }
@@ -382,7 +382,7 @@
       border-radius: 22px;
       overflow: hidden;
       background: var(--background-color);
-    
+
       img {
         position: absolute;
         top: 0;
@@ -392,7 +392,7 @@
         border-radius: 22px;
         object-fit: cover;
       }
-    
+
     }
 
     @media only screen and (max-width: $desktop) {
@@ -567,7 +567,7 @@
     margin-bottom: 32px;
     color: var(--text-alt-color);
   }
-  
+
   @media only screen and (max-width: $mobile) {
     .error__text {
       margin-bottom: 24px;
