@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A scientific and methodological approach to finding happiness.
-description: Naval Ravikant challenged his listers, "if you're so smart, why aren't you happy?". This article takes on that challenge.
+description: Naval Ravikant challenged his listeners, "if you're so smart, why aren't you happy?". This article takes on that challenge.
 date:   2022-09-12 15:01:35 +0300
 image:  '/images/14.jpg'
 tags:   [frameworks for life, happiness, personal development]
