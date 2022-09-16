@@ -17,13 +17,13 @@
 
       <p class="article__excerpt">{{ post.description | escape }}</p>
 
-      <!-- <div class="article__bottom">
+      <div class="article__bottom">
         <div class="article__meta">
-          <a href="{{site.baseurl}}/about/" class="article__author-image">
+          <!-- <a href="{{site.baseurl}}/about/" class="article__author-image">
             <img class="lazy" data-src="{{site.author.avatar}}" alt="{{site.author.name}}">
-          </a>
+          </a> -->
           <div class="article__info">
-            <a href="{{site.baseurl}}/about/" class="article__author-link">{{ site.author.name }}</a>
+            <!-- <a href="{{site.baseurl}}/about/" class="article__author-link">{{ site.author.name }}</a> -->
             <time class="article__date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
           </div>
         </div>
@@ -35,7 +35,7 @@
           {% endfor %}
         </div>
         {% endif %}
-      </div> -->
+      </div>
     </div>
   </div>
 </div>
