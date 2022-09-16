@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: Bracia
+title: yazan.bar
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Bracia is a simple personal blog theme for Jekyll.
+description: Incoherent ramblings.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
