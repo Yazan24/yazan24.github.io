@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The only thing that makes humans special is context.
-description: Naval Ravikant challenged his listeners, "if you're so smart, why aren't you happy?". This article takes on that challenge.
+description: Famed Polish engineer, mathematician and philospher, Alfred Korzybski, called man the 'time-binder', meaning man was the animal most aware of time.
 date:   2022-09-12 15:01:35 +0300
 image:  '/images/11.jpg'
 tags:   [philosophy, animism, psychology]
